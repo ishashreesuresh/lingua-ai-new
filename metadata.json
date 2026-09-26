@@ -1,0 +1,6 @@
+{
+  "name": "LinguaAI - AI Multilingual Translation Platform",
+  "description": "AI-powered multilingual translation, voice synthesis, pronunciation assistance, and language intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
